@@ -1,4 +1,4 @@
-# Dynamic Pricing Strategy
+# Dynamic Ride Fare Optimization
 
 ## Problem Statement
 Developing an effective dynamic pricing strategy for rides to optimize revenue while considering factors like rider count, driver count, location category, customer loyalty status, past rides, average ratings, time of booking, vehicle type, expected ride duration, and historical cost of rides.
